@@ -1,6 +1,6 @@
 # SpUtil
 
-This is header-only C sparse matrix util library
+header-only sparse matrix util library written in C
 
 # funcitons
 SpUtil has 5 funcitons:
