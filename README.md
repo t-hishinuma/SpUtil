@@ -1,2 +1,8 @@
 # SpUtil
-Sparse Matrix Utils
+
+```
+cd test
+make 
+make run
+```
+
