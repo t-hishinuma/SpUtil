@@ -4,8 +4,6 @@
 #include<string.h>
 #include<ctype.h>
 #define MM_BANNER		"%%MatrixMarket"
-#define MM_MTX			"matrix"
-#define MM_VEC			"vector"
 #define MM_FMT			"coordinate"
 #define MM_TYPE_REAL		"real"
 #define MM_TYPE_GENERAL		"general"
