@@ -4,7 +4,7 @@ int main(){
     int N, nnz;
 
     //file open and read header to get matrix size
-    FILE* fp = fopen("./test.mm", "r");
+    FILE* fp = fopen("./test.mtx", "r");
     SpUtil_read_mm_header(fp, &N, &nnz);
 
     printf("N = %d, nnz = %d\n", N, nnz);
