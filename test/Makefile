@@ -1,8 +1,8 @@
 all:
-	gcc -std=c99 test.c
+	gcc -std=c99 ./IO_and_convert.c -o IO_and_convert.out
 
 run:
-	./a.out
+	./IO_and_convert.out
 
 clean:
-	rm a.out
+	rm *.out

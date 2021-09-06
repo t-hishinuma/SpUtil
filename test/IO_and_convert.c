@@ -1,4 +1,4 @@
-#include"../SpUtil.hpp"
+#include"../SpUtil.h"
 
 int main(){
     int N, nnz;
